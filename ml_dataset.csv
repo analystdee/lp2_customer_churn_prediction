@@ -2987,7 +2987,7 @@ customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 9786-IJYDL,Female,No,No,No,35,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,113.19999694824219,3914.050048828125,No
 1303-SRDOK,Female,No,Yes,Yes,55,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),69.05000305175781,3842.60009765625,No
 3769-MHZNV,Female,No,Yes,Yes,33,Yes,No,No,,,,,,,Two year,No,Mailed check,20.100000381469727,670.3499755859375,No
-6295-OSINB,Male,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,109.6500015258789,7880.25,No
+6295-OSINB,Male,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,109.6500015258789,7880.25,
 3308-MHOOC,Male,No,No,Yes,1,Yes,No,No,,,,,,,Month-to-month,Yes,Mailed check,19.200000762939453,19.200000762939453,No
 2309-OSFEU,Male,No,No,No,10,No,,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,33.900001525878906,298.45001220703125,Yes
 2207-QPJED,Female,Yes,Yes,No,37,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,90.0,3371.75,No
